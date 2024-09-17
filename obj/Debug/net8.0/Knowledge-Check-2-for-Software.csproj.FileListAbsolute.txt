@@ -1,0 +1,15 @@
+/Users/account/Knowledge-Check-2-for-Software/bin/Debug/net8.0/Knowledge-Check-2-for-Software
+/Users/account/Knowledge-Check-2-for-Software/bin/Debug/net8.0/Knowledge-Check-2-for-Software.deps.json
+/Users/account/Knowledge-Check-2-for-Software/bin/Debug/net8.0/Knowledge-Check-2-for-Software.runtimeconfig.json
+/Users/account/Knowledge-Check-2-for-Software/bin/Debug/net8.0/Knowledge-Check-2-for-Software.dll
+/Users/account/Knowledge-Check-2-for-Software/bin/Debug/net8.0/Knowledge-Check-2-for-Software.pdb
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.GeneratedMSBuildEditorConfig.editorconfig
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.AssemblyInfoInputs.cache
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.AssemblyInfo.cs
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.csproj.CoreCompileInputs.cache
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.sourcelink.json
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.dll
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/refint/Knowledge-Check-2-for-Software.dll
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.pdb
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/Knowledge-Check-2-for-Software.genruntimeconfig.cache
+/Users/account/Knowledge-Check-2-for-Software/obj/Debug/net8.0/ref/Knowledge-Check-2-for-Software.dll
